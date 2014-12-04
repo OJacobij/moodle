@@ -1,1 +1,0 @@
-$ git clone --depth=1 -b MOODLE_28_STABLE --single-branch git://git.moodle.org/moodle.git 
